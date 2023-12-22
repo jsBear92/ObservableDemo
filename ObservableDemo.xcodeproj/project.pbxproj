@@ -11,6 +11,8 @@
 		C8533B042B35962500793244 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8533B032B35962500793244 /* ContentView.swift */; };
 		C8533B062B35962700793244 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8533B052B35962700793244 /* Assets.xcassets */; };
 		C8533B0A2B35962700793244 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8533B092B35962700793244 /* Preview Assets.xcassets */; };
+		C8533B112B35963700793244 /* TimerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8533B102B35963700793244 /* TimerData.swift */; };
+		C8533B132B35988300793244 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8533B122B35988300793244 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		C8533B052B35962700793244 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C8533B072B35962700793244 /* ObservableDemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ObservableDemo.entitlements; sourceTree = "<group>"; };
 		C8533B092B35962700793244 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C8533B102B35963700793244 /* TimerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerData.swift; sourceTree = "<group>"; };
+		C8533B122B35988300793244 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				C8533B052B35962700793244 /* Assets.xcassets */,
 				C8533B072B35962700793244 /* ObservableDemo.entitlements */,
 				C8533B082B35962700793244 /* Preview Content */,
+				C8533B102B35963700793244 /* TimerData.swift */,
+				C8533B122B35988300793244 /* SecondView.swift */,
 			);
 			path = ObservableDemo;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 			files = (
 				C8533B042B35962500793244 /* ContentView.swift in Sources */,
 				C8533B022B35962500793244 /* ObservableDemoApp.swift in Sources */,
+				C8533B132B35988300793244 /* SecondView.swift in Sources */,
+				C8533B112B35963700793244 /* TimerData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
